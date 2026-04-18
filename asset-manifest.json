@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/drashti-thekdi/Restaurant-landing-page/static/css/main.42300d1c.css",
-    "main.js": "/drashti-thekdi/Restaurant-landing-page/static/js/main.a4197a38.js",
-    "static/media/home-banner-image.png": "/drashti-thekdi/Restaurant-landing-page/static/media/home-banner-image.a41849b23e5c36d66717.png",
-    "static/media/about-background-image.png": "/drashti-thekdi/Restaurant-landing-page/static/media/about-background-image.d0e45280dd69dec26ee6.png",
-    "static/media/home-banner-background.png": "/drashti-thekdi/Restaurant-landing-page/static/media/home-banner-background.585600da7ff85661555e.png",
-    "static/media/Logo.svg": "/drashti-thekdi/Restaurant-landing-page/static/media/Logo.56ad59d23ceff242946a01628e79e275.svg",
-    "index.html": "/drashti-thekdi/Restaurant-landing-page/index.html",
-    "main.42300d1c.css.map": "/drashti-thekdi/Restaurant-landing-page/static/css/main.42300d1c.css.map",
-    "main.a4197a38.js.map": "/drashti-thekdi/Restaurant-landing-page/static/js/main.a4197a38.js.map"
+    "main.css": "/Restaurant-landing-page/static/css/main.42300d1c.css",
+    "main.js": "/Restaurant-landing-page/static/js/main.2abc967b.js",
+    "static/media/home-banner-image.png": "/Restaurant-landing-page/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/about-background-image.png": "/Restaurant-landing-page/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/home-banner-background.png": "/Restaurant-landing-page/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/Restaurant-landing-page/static/media/Logo.56ad59d23ceff242946a01628e79e275.svg",
+    "index.html": "/Restaurant-landing-page/index.html",
+    "main.42300d1c.css.map": "/Restaurant-landing-page/static/css/main.42300d1c.css.map",
+    "main.2abc967b.js.map": "/Restaurant-landing-page/static/js/main.2abc967b.js.map"
   },
   "entrypoints": [
     "static/css/main.42300d1c.css",
-    "static/js/main.a4197a38.js"
+    "static/js/main.2abc967b.js"
   ]
 }
